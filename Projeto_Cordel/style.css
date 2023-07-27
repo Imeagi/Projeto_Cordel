@@ -114,6 +114,7 @@ section#o4 > p{
     background-color: rgba(0, 0, 0, 0.418);
     text-shadow: 5px 5px 7px black;
     padding: 20px;
+    border-top: 20px;
 }
 
 section#o5{
