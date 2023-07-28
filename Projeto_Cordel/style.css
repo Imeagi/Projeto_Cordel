@@ -28,7 +28,7 @@ h1{
     font-family: 'Titulo', serif;
     font-size: 4em;
     color: white;
-    margin-bottom: 2px;
+    margin-bottom: 2px;          
 }
 
 p#d1{
@@ -63,7 +63,7 @@ section#o1 > p{
 section#o2{
     background-image: url(imagens/background001.jpg);
     background-repeat: no-repeat;
-    height: 90vh;
+    height: 500px;
     text-align: left;
     background-position: center center;
     background-size: cover;
