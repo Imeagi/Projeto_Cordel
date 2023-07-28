@@ -26,12 +26,9 @@ header{
 
 h1{
     font-family: 'Titulo', serif;
-    font-size: 4em;
+    font-size: 10vh;
     color: white;
-    margin-bottom: 2px;  
-    margin: auto;
-    margin-top: 20px;
-
+    margin-bottom: 2px;          
 }
 
 p#d1{
