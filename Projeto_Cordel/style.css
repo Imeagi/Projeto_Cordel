@@ -28,7 +28,8 @@ h1{
     font-family: 'Titulo', serif;
     font-size: 10vh;
     color: white;
-    margin: auto;         
+    margin: auto;    
+    margin-top: 20px;     
 }
 
 p#d1{
